@@ -1,0 +1,7 @@
+[package]
+name = "ToyTcp"
+version = "0.1.0"
+authors = ["sidharthk <sidharth.k9@mailbox.org>"]
+edition = "2018"
+
+[dependencies]
